@@ -4,8 +4,8 @@
 ---
 
 ### 📊 Статистика GitHub  
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=AskAkr&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AskAkr&layout=compact&theme=radical)  
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=1VEET1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1VEET1&layout=compact&theme=radical)  
 
 ---
 
